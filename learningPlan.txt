@@ -1,0 +1,5 @@
+Learning plan:
+
+GitHub
+Jenkins or GitHub Actions
+Docker
